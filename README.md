@@ -18,7 +18,7 @@ If the given data is inserted in mongodb database then it shows a reply "1 docum
  Here we are specifying what the database name is,and in which collection contained in the database should be loaded.
  
  ```var dbo = db.db("test_no1");```
- Here we are specifying which our collection is. When the program is loaded then the input data are loaded to the collection.
+ Here we are specifying which our collection is. When the program is loaded then ,the input data are loaded to the collection.
  
  ``` var myobj = { name: "web project ", address: "s3 mca",phone:"1234567890" };
   dbo.collection("test_no1").insertOne(myobj, function(err, res) {
