@@ -23,5 +23,6 @@ If the given data is inserted in mongodb database then it shows a reply "1 docum
  ``` var myobj = { name: "web project ", address: "s3 mca",phone:"1234567890" };
   dbo.collection("test_no1").insertOne(myobj, function(err, res) {
  ```
- Here the input data name, address and pnone are inserted.The inserted data is stored in the database.
+ Here the input data name, address and pnone are inserted.The inserted data is stored in the database.The entered data can be seen inside mongodb compass which is the interface of mongodb.
+  
   
