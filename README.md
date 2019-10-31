@@ -25,4 +25,12 @@ If the given data is inserted in mongodb database then it shows a reply "1 docum
  ```
  Here the input data name, address and pnone are inserted.The inserted data is stored in the database.The entered data can be seen inside mongodb compass which is the interface of mongodb.
   
+  ``` console.log("1 document inserted succesfully");
+  ```
+  Here this code is used display if the input is inserted.
   
+  
+  ## Problems faced during the project
+  
+ There were many errors during the installation process. 
+ 
