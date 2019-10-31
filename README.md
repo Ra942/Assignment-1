@@ -11,7 +11,8 @@ If the given data is inserted in mongodb database then it shows a reply "1 docum
 
  Here i have created a database with database name as "mongodb_test" and created collection as "test_no1".
  
- ![web program](https://user-images.githubusercontent.com/53893437/67923317-ba2b0f00-fb6a-11e9-9ac9-02527c79d6b0.PNG)
+ ![Capture](https://user-images.githubusercontent.com/53893437/67924446-e7c58780-fb6d-11e9-91e9-569034019088.PNG)
+
  ## Program Informations..
  ```var url = "mongodb://localhost:27017/mongodb_test";```
  Here we are specifying what the database name is,and in which collection contained in the database should be loaded.
